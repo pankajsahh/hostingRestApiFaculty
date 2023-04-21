@@ -5,5 +5,5 @@ django-jazzmin==2.5.0
 django-rest-passwordreset==1.2.1
 djangorestframework==3.13.1
 pytz==2022.1
-sqlparse==0.4.2
+sqlparse==0.4.4
 tzdata==2022.1
